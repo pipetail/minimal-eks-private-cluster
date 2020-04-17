@@ -44,4 +44,8 @@ https://blog.pipetail.io/posts/2020-04-13-more-eks-tips/
 [contact@pipetail.io](mailto:contact@pipetail.io), [@MstrsObserver](https://twitter.com/MstrsObserver)
 or [MarekBartik](https://twitter.com/MarekBartik). Simple.
 
+## License
+
+MIT
+
 
