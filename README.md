@@ -1,5 +1,8 @@
 # Minimal private-only EKS cluster
 
+## Sources
+- https://github.com/aws/containers-roadmap/issues/298#issuecomment-584403418
+
 ## Key components
 
 - VPC endpoint for s3 for Docker images of base EKS components
