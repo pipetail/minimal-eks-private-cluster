@@ -1,5 +1,8 @@
 # Minimal private-only EKS cluster
 
+## Sources
+- https://github.com/aws/containers-roadmap/issues/298#issuecomment-584403418
+
 ## Key components
 
 - VPC endpoint for s3 for Docker images of base EKS components
@@ -42,7 +45,7 @@ https://blog.pipetail.io/posts/2020-04-13-more-eks-tips/
 ## Need any help?
 
 [contact@pipetail.io](mailto:contact@pipetail.io), [@MstrsObserver](https://twitter.com/MstrsObserver)
-or [MarekBartik](https://twitter.com/MarekBartik). Simple.
+or [@MarekBartik](https://twitter.com/MarekBartik). Simple.
 
 ## License
 
