@@ -49,6 +49,9 @@ If you need IAM roles for Kubernetes workload, use IAM roles for Kubernetes Serv
 That's the best and most secure way how to handle this. See more in our blog post:
 https://blog.pipetail.io/posts/2020-04-13-more-eks-tips/
 
+## Authors
+Stepan Vrany, [buy me a beer](https://www.buymeacoffee.com/vranystepan) if you want :wink:
+
 ## Need any help?
 
 [contact@pipetail.io](mailto:contact@pipetail.io), [@MstrsObserver](https://twitter.com/MstrsObserver)
