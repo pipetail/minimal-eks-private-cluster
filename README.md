@@ -2,6 +2,13 @@
 
 ## Sources
 - https://github.com/aws/containers-roadmap/issues/298#issuecomment-584403418
+- https://github.com/vranystepan/codepipeline-eks-example
+- snippets were collected all over the internet :joy:
+
+## Variants
+
+- `./managed/` with managed EKS groups
+- `./self-managed/` with classic self-managed ASGs, use this variant if you want to control maximum of the configuration (special kubelet args such as labels and taints, ...)
 
 ## Key components
 
